@@ -11,9 +11,9 @@ function Contact() {
 
         <p>📍 Delhi, India</p>
 
-        <p>📞 +91 8279530896</p>
+        <p>📞 +91 12345678</p>
 
-        <p>✉ naveenramola2463@gmail.com</p>
+        <p>✉ naveen@gmail.com</p>
       </div>
 
       <Footer />
